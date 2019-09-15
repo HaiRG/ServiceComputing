@@ -6,7 +6,7 @@
 
  首先需要下载安装包
 
- ![](https://github.com/HaiRG/ServiceComputing/edit/master/img/2.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/2.png)
 
  通过 wget获取
 
@@ -14,41 +14,41 @@
 
 先创建一个文件夹
 
- ![](/img/3.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/3.png)
 
 然后解压到该文件夹中
 
- ![](/img/5.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/5.png)
 
 ### 设置环境变量
 
 创建工作空间并且通过vim打开profile文件
 
-![](/img/7.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/7.png)
 
 输入相应环境变量并执行配置
 
-![](/img/6.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/6.png)
 
 测试安装是否成功并检查配置
 
-![](/img/8.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/8.png)
 
-![](/img/9.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/9.png)
 
 ### 创建hello world！
 
 我采用的是vim进行go的编写
 
-![](/img/10.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/10.png)
 
 输入相应语句
 
-![](/img/11.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/11.png)
 
 在终端运行
 
- ![](/img/12.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/12.png)
 
 成功显示
 
@@ -56,15 +56,15 @@
 
 安装git
 
-![](/img/13.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/13.png)
 
 安装工具
 
-![](/img/15.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/15.png)
 
 ### 安装gotour
 
-![](/img/14.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/14.png)
 
 
 ## 按照官方文档写第一个包
@@ -120,17 +120,17 @@ hello
 
 得到以下的结果
 
- ![](/img/16.52.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/16.52.png)
 
  ### 测试
 
   首先创建reverse_test.go文件
 
-![](/img/16.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/16.png)
 
  然后输入相应的代码
 
- ![](/img/17.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/17.png)
 
   执行  ```go test```
 
