@@ -14,41 +14,41 @@
 
 先创建一个文件夹
 
- ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/3.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/3.PNG)
 
 然后解压到该文件夹中
 
- ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/5.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/5.PNG)
 
 ### 设置环境变量
 
 创建工作空间并且通过vim打开profile文件
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/7.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/7.PNG)
 
 输入相应环境变量并执行配置
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/6.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/6.PNG)
 
 测试安装是否成功并检查配置
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/8.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/8.PNG)
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/9.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/9.PNG)
 
 ### 创建hello world！
 
 我采用的是vim进行go的编写
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/10.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/10.PNG)
 
 输入相应语句
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/11.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/11.PNG)
 
 在终端运行
 
- ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/12.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/12.PNG)
 
 成功显示
 
@@ -56,15 +56,15 @@
 
 安装git
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/13.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/13.PNG)
 
 安装工具
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/15.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/15.PNG)
 
 ### 安装gotour
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/14.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/14.PNG)
 
 
 ## 按照官方文档写第一个包
@@ -120,23 +120,23 @@ hello
 
 得到以下的结果
 
- ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/16.52.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/16.52.PNG)
 
  ### 测试
 
   首先创建reverse_test.go文件
 
-![](https://github.com/HaiRG/ServiceComputing/raw/master/img/16.png)
+![](https://github.com/HaiRG/ServiceComputing/raw/master/img/16.PNG)
 
  然后输入相应的代码
 
- ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/17.png)
+ ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/17.PNG)
 
   执行  ```go test```
 
   得到以下结果
 
-  ![](/img/18.png)
+  ![](https://github.com/HaiRG/ServiceComputing/raw/master/img/18.PNG)
 
   测试成功
 
