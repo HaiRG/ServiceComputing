@@ -6,7 +6,7 @@
 
  首先需要下载安装包
 
- ![](/img/2.png)
+ ![](https://github.com/HaiRG/ServiceComputing/edit/master/img/2.png)
 
  通过 wget获取
 
